@@ -5,6 +5,10 @@ menu:
 widgets:
 - search
 
+search:
+  path: search.xml
+  field: post
+
 cover:
   enable: true
   url: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488029108610&di=c74f974f0ebce9dcfabd86008e5c9cbd&imgtype=0&src=http%3A%2F%2Fwww.nxxxh.com%2FUploadFile%2Fimage%2F20150729%2F20150729152231_0553.jpg
@@ -30,7 +34,7 @@ comment_provider: duoshuo
 
 # Duoshuo comment
 duoshuo:
-  short_name: your_id
+  short_name: suuzee
 
 social:
   github: https://github.com/suuzee
