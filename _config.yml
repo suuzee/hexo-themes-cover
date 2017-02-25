@@ -7,8 +7,8 @@ widgets:
 
 cover:
   enable: true
-  url: http://ww1.sinaimg.cn/large/6cea169fjw1edgyzma1xcj21kw16ohba.jpg
-   
+  url: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488029108610&di=c74f974f0ebce9dcfabd86008e5c9cbd&imgtype=0&src=http%3A%2F%2Fwww.nxxxh.com%2FUploadFile%2Fimage%2F20150729%2F20150729152231_0553.jpg
+
 excerpt_link: Read More
 
 full_format: 'ddd, MMM D YYYY, h:mm:ss a'
@@ -33,9 +33,9 @@ duoshuo:
   short_name: your_id
 
 social:
-  github: https://github.com/your_id
-  weibo: http://weibo.com/your_id
-  google_plus: 
+  github: https://github.com/suuzee
+  weibo: http://weibo.com/suuzee
+  google_plus:
 
 auto_change:
   enable: true
