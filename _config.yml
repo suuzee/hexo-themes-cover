@@ -18,7 +18,7 @@ excerpt_link: Read More
 full_format: 'ddd, MMM D YYYY, h:mm:ss a'
 
 addthis:
-  enable: true
+  enable: false
   pubid:
   facebook:
   twitter:
