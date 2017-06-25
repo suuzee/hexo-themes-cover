@@ -1,0 +1,28 @@
+{
+  "name": "cover",
+  "version": "1.0.0",
+  "description": "A chic Hexo theme with facebook-like cover photo. Forked from [Writing](https://github.com/yunlzheng/hexo-themes-writing).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suuzee/hexo-themes-cover.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suuzee/hexo-themes-cover/issues"
+  },
+  "homepage": "https://github.com/suuzee/hexo-themes-cover#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
